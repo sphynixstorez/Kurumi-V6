@@ -64,7 +64,9 @@ module.exports.helpMenu = (pushname) =>{
 » /antilink
 » /antilink2
 » /open
+» /setopen
 » /close
+» /setclose
 » /hidetag
 » /add
 » /kick
